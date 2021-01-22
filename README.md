@@ -1,7 +1,7 @@
 ## Hello World 👋
 
 ### &nbsp; Programming enthusiast
-I have been programming since 2018, when I was 14 years old.
+!I have been programming since 2018, when I was 14 years old.
 
 ### &nbsp;Favorite tools:
 
