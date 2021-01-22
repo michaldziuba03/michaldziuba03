@@ -1,7 +1,7 @@
 ## Hello World 👋
 
-### Programming enthusiast
-I have been programming since 2018, when I was 14 years old. 
+### Web Development enthusiast
+I have been programming since 2018, when I was 14 years old. I like programming in Node, TypeScript, React and PostgreSQL.
 
 ### My skills:
 
