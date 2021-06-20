@@ -1,8 +1,3 @@
-## Hello World 👋
-
-### Web Development enthusiast
-I have been programming since 2018. I like programming in Node, TypeScript, React and PostgreSQL.
-
 ### My skills:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
