@@ -18,4 +18,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### My favourite Linux distros:
-![TypeScript](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
+![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
