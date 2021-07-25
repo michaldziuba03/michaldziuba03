@@ -3,6 +3,11 @@
 My name is Michał and my hobby is Linux and backend development with Node.js, TypeScript and PostgreSQL. </br>
 Sometimes I also create frontend applications in React and SCSS.
 
+### My future YouTube channel:
+![Mini Channel Profile](https://user-images.githubusercontent.com/43048524/126912496-12b2ce83-c3f9-4fa2-bbe8-34ec1a16e78f.png)</br>
+GitHub: <a href="https://github.com/wazzup-code"> @wazzup-code </a> </br> 
+YouTube: <a href="https://www.youtube.com/channel/UCFOjSBiSWR1HRhjS47ie5ow"> wazzup code </a>
+
 ### My skills:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
