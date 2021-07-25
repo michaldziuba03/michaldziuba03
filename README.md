@@ -1,3 +1,6 @@
+![Profile banner - 1](https://user-images.githubusercontent.com/43048524/126908653-375f057c-1dbf-4bfd-8642-c5b58080823c.png)
+
+
 ### My skills:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
