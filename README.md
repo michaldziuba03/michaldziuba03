@@ -1,5 +1,7 @@
 ![Profile banner - 1](https://user-images.githubusercontent.com/43048524/126908653-375f057c-1dbf-4bfd-8642-c5b58080823c.png)
-
+## Hello world
+My name is Michał and my hobby is Linux and backend development with Node.js, TypeScript and PostgreSQL. </br>
+Sometimes I also create frontend applications in React and SCSS.
 
 ### My skills:
 
