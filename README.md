@@ -25,8 +25,9 @@ Sometimes I also create frontend applications in React and SCSS.
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>&nbsp;
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>&nbsp;
 
-### My favourite Linux distributions:
+### My favourite operating systems:
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
 ![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Mint](https://img.shields.io/badge/Mint-52a552?style=for-the-badge&logo=linuxmint&logoColor=white)&nbsp;
+![FreeBSD](https://img.shields.io/badge/FreeBSD-D9534F?style=for-the-badge&logo=freebsd&logoColor=white)&nbsp;
 
