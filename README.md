@@ -22,10 +22,5 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;
-
-### My favourite operating systems:
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
-![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
-![Mint](https://img.shields.io/badge/Mint-52a552?style=for-the-badge&logo=linuxmint&logoColor=white)&nbsp;
-![FreeBSD](https://img.shields.io/badge/FreeBSD-D9534F?style=for-the-badge&logo=freebsd&logoColor=white)&nbsp;
+<img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
 
