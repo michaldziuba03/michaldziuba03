@@ -1,6 +1,5 @@
 ## Hello world 👋
-**Hi, I am Michał, a teenager from Poland. I like Linux 🐧, TypeScript and Rust 🦀. </br>**
-
+My name is Michał and I’m 19 years old from Poland. I started with programming in 2018. I’m intested in web development, operating systems (like Linux) and open-source-software movement. Besides programming I also like video games, history and dogs.
 
 ### Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
