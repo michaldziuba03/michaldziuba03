@@ -1,4 +1,7 @@
-## Hello world 👋
+![Banner](https://user-images.githubusercontent.com/43048524/204109656-9f996e7f-9285-4e60-8951-3c94f1551934.png)
+
+## About me
+
 My name is Michał and I’m 19 years old from Poland. I started with programming in 2018. I’m intested in web development, operating systems (like Linux) and open-source-software movement. Besides programming I also like video games, history and dogs.
 
 ### Languages:
