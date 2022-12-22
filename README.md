@@ -2,19 +2,19 @@
 My name is Michał and I’m 19 years old from Poland. I started with programming in 2018. I’m interested in backend development, operating systems (like Linux) and open-source-software movement. Besides programming I also like metal music, video games, history and dogs.
 
 
-<a href="https://www.linkedin.com/in/michaldziuba03/">
+<a href="https://www.linkedin.com/in/michaldziuba03/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/michaldziuba03">
+<a href="https://twitter.com/michaldziuba03" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://fosstodon.org/@michaldziuba">
+<a href="https://fosstodon.org/@michaldziuba" target="_blank">
   <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364ff?style=for-the-badge&logo=mastodon&logoColor=white" />
 </a>
 
-<a href="https://dev.to/michaldziuba">
+<a href="https://dev.to/michaldziuba" target="_blank">
   <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-030303?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
