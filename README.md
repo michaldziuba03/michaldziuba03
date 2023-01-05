@@ -16,9 +16,6 @@ My name is Michał and I’m 19 years old from Poland. I started with programmin
   <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364ff?style=for-the-badge&logo=mastodon&logoColor=white" />
 </a>
 
-<a href="https://dev.to/michaldziuba" target="_blank" title="@michaldziuba">
-  <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-030303?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
 
 ### Tech stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
