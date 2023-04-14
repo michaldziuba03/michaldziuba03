@@ -1,20 +1,22 @@
-![Banner](https://user-images.githubusercontent.com/43048524/210594242-2a430a9b-7bf7-4548-a1aa-e38df09170f0.png)
-
+![Banner](https://user-images.githubusercontent.com/43048524/232149549-254bd366-11f8-4d43-8125-47b3094055f6.png)
 
 ## About
 My name is Michał and I’m 19 years old from Poland. I started with programming in 2018. I’m interested in backend development, operating systems (like Linux) and open-source-software movement. Besides programming I also like metal music, video games, history and dogs.
 
-<a href="https://www.linkedin.com/in/michaldziuba03/" target="_blank" title="@michaldziuba03">
-  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://twitter.com/michaldziuba03" target="_blank" title="@michaldziuba03">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/michaldziuba03/" target="_blank" title="@michaldziuba03">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-1E66F5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://fosstodon.org/@michaldziuba" target="_blank" title="@michaldziuba">
-  <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364ff?style=for-the-badge&logo=mastodon&logoColor=white" />
-</a>
+  <a href="https://twitter.com/michaldziuba03" target="_blank" title="@michaldziuba03">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1E66F5?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://fosstodon.org/@michaldziuba" target="_blank" title="@michaldziuba">
+    <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-1E66F5?style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
+</p>
 
 
 ### Tech stack
