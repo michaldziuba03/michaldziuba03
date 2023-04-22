@@ -16,6 +16,10 @@ My name is Michał and I’m 19 years old from Poland. I started with programmin
   <a href="https://fosstodon.org/@michaldziuba" target="_blank" title="@michaldziuba">
     <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-1E66F5?style=for-the-badge&logo=mastodon&logoColor=white" />
   </a>
+  
+  <a href="https://michaldziuba.dev" target="_blank" title="website">
+    <img alt="Website" src="https://img.shields.io/badge/website-1E66F5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGSSURBVHgBtVbtccIwDHU4/jfdIN2ADeoNYAPYgGyQjMAGYYRukG5QNjAbhA1UiZPLQ2eH9AjvThA/69tGwbkREFHJ0rD0LIFuGJTbs1TuvxAjdTAV3eRArLjVDFMIdF8JmarqR84bY9CKEXBbFg9r2T+YQE3O+d5kWikflOtBt1fuB1oawL52iZ4PCeeY7Rb0kfeJIAPhmfDiCAZVgg+JimNCh0yi14oLdRgdXFhO4GfFUib4sb3IC94lKh7i3GiXHGWt0c4s35BJxeL1+UszRUiWm8y+V/tP7GWL1rzeQCalcR77HbEze/HqhoW79SuV4RVFUdg94c4uj3gm1QLIi5sPf8lJgLM+r3LamRYhN2QCXJYaoGJZs9FbQknQ8V62hQy5iRtYe/0+SSYtvQ51oaXGEuf+oX1cP+k2vO5mCFw322Mcgh1weHU7ZzYeDTsP+jvL09iwUwUcGRgkGqXGddD1isbGNRjaA2/oftJ6k32tOvgGbN0Y1Og1r0xzJkeajp6e+HexVweDqUQ4aWk55uMXTylAgPwEwyAAAAAASUVORK5CYII=&logoColor=white" />
+  </a>
 </p>
 
 
