@@ -39,7 +39,3 @@ My name is Michał and I’m 19 years old from Poland. I started with programmin
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;
 <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>&nbsp;
-
-#### Modding
-
-Sometimes I also do stuff related to games like scripting and mapping: [My GitLab for modding](https://gitlab.com/madd03)
