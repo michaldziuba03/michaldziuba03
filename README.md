@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/43048524/232149549-254bd366-11f8-4d43-8125-47b3094055f6.png)
 
 ## About
-My name is Michał and I’m 19 years old from Poland. I started with programming in 2018. I’m interested in backend development, operating systems (like Linux) and open-source-software movement. Besides programming I also like metal music, video games, history and dogs. 
+My name is Michał and I’m 20 years old from Poland. I started with programming in 2018. I’m interested in backend development, operating systems (like Linux) and open-source-software movement. Besides programming I also like metal music, video games, history and dogs. 
 
 
 <p align="center">
