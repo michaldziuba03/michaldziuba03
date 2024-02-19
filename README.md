@@ -33,6 +33,7 @@ My name is Michał and I’m 20 years old from Poland. I started with programmin
 ![PostCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>&nbsp;
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
+<img alt="C++" src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
 
 #### Currently exploring
 
