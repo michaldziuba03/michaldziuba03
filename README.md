@@ -31,12 +31,5 @@ My name is Michał and I’m 20 years old from Poland. I started with programmin
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![PostCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>&nbsp;
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
 <img alt="C++" src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
-
-#### Currently exploring
-
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;
-<img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>&nbsp;
