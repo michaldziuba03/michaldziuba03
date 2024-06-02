@@ -10,7 +10,7 @@ My name is Michał and I’m 20 years old from Poland. I started with programmin
   </a>
 
   <a href="https://twitter.com/michaldziuba03" target="_blank" title="@michaldziuba03">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1E66F5?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1E66F5?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   
   <a href="https://michaldziuba.dev" target="_blank" title="website">
