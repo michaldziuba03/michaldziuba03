@@ -1,5 +1,9 @@
+
+![banner](https://github.com/michaldziuba03/michaldziuba03/assets/43048524/c82aa2a0-bfc8-4508-bdaf-c226b7a16988)
+
 ## About
-My name is Michał and I’m 20 years old from Poland. I started with programming in 2018. I’m interested in backend development, operating systems (like Linux) and open-source-software movement. Besides programming I also like metal music, video games, history and dogs. 
+
+Hello, my name is Michał, and I am a 20-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
 
 
 <p align="center">
