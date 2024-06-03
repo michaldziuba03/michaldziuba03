@@ -1,11 +1,6 @@
 
 ![banner](https://github.com/michaldziuba03/michaldziuba03/assets/43048524/c82aa2a0-bfc8-4508-bdaf-c226b7a16988)
 
-## About
-
-Hello, my name is Michał, and I am a 20-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/michaldziuba03/" target="_blank" title="@michaldziuba03">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
@@ -20,7 +15,19 @@ Hello, my name is Michał, and I am a 20-year-old from Poland. I began my progra
   </a>
 </p>
 
-### Tech stack
+# ✨ About me
+
+Hello, my name is Michał, and I am a 20-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
+
+<p>
+🔨&emsp;Coding in JavaScript and C <br>
+🖥️&emsp;Windows 11 and Ubuntu 20.04 LTS user <br>
+📖&emsp;Studying Computer Science at Maria Curie-Skłodowska University in Lublin <br>
+📓&emsp;Love to share my knowledge with others <br>
+</p>
+
+
+## Tech stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
