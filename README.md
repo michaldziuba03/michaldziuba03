@@ -1,4 +1,4 @@
-![banner 2](https://github.com/michaldziuba03/michaldziuba03/assets/43048524/95344e29-bbde-4c2a-b356-358e242d0ab9)
+![banner](https://github.com/michaldziuba03/michaldziuba03/assets/43048524/d56fa96e-b5d7-4472-b376-e5243d2d999e)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michaldziuba03/" target="_blank" title="@michaldziuba03">
