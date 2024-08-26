@@ -43,4 +43,5 @@ Some technologies and tools I use on daily basis.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![PostCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
+<img alt="C" src="https://img.shields.io/badge/C-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img alt="C++" src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
