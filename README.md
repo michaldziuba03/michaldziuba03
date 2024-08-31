@@ -23,8 +23,8 @@ Hello, my name is Michał, and I am a 20-year-old from Poland. I began my progra
 📖&emsp;Studying Computer Science at Maria Curie-Skłodowska University in Lublin <br>
 📓&emsp;Love to share my knowledge with others <br>
 🌐&emsp;I speak Polish, English and learn Russian <br>
+💼&emsp;Currently working on my side-project: <b>PandJS</b> (JavaScript runtime) <br>
 </p>
-
 
 ## ⚒️ Tech stack
 
