@@ -16,7 +16,7 @@
 
 # ✨ About me
 
-Hello, my name is Michał, and I am a 20-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
+Hello, my name is Michał, and I am a 21-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
 
 <p>
 🖥️&emsp;Windows 11 and Ubuntu 20.04 LTS user <br>
