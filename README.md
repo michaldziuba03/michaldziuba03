@@ -19,11 +19,11 @@
 Hello, my name is Michał, and I am a 21-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
 
 <p>
-🖥️&emsp;Windows 11 and Ubuntu 20.04 LTS user <br>
+💼&emsp;Software Developer at <a href="https://github.com/ever-co"> Ever </a> <br>
 📖&emsp;Studying Computer Science at Maria Curie-Skłodowska University in Lublin <br>
+🔨&emsp;Working on side-project: <b>PandJS</b> (JavaScript runtime) <br>
+🖥️&emsp;Windows 11 and Ubuntu 20.04 LTS user <br>
 📓&emsp;Love to share my knowledge with others <br>
-🌐&emsp;I speak Polish, English and learn Russian <br>
-💼&emsp;Currently working on my side-project: <b>PandJS</b> (JavaScript runtime) <br>
 </p>
 
 ## ⚒️ Tech stack
