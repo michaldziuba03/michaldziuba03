@@ -21,7 +21,7 @@ Hello, my name is Michał, and I am a 21-year-old from Poland. I began my progra
 <p>
 📖&emsp;Studying Computer Science at Maria Curie-Skłodowska University in Lublin <br>
 🔨&emsp;Working on side-project: <b>PandJS</b> (JavaScript runtime) <br>
-🖥️&emsp;Windows 11 and Ubuntu 20.04 LTS user <br>
+🖥️&emsp;Windows 11 and Ubuntu user <br>
 📓&emsp;Love to share my knowledge with others <br>
 </p>
 
