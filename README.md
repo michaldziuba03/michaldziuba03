@@ -3,6 +3,7 @@
 Hello, my name is Michał, and I am a 21-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
 
 <p>
+💼&emsp;Software Developer at <b>2cW</b>  <br>
 📖&emsp;Studying Computer Science at Maria Curie-Skłodowska University in Lublin <br>
 🔨&emsp;Working on side-project: <b>PandJS</b> (JavaScript runtime) <br>
 🖥️&emsp;Windows 11 and Ubuntu user <br>
