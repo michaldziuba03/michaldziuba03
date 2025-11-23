@@ -1,6 +1,6 @@
 # ✨ About me
 
-Hello, my name is Michał, and I am a 21-year-old from Poland. I began my programming journey in 2018 and have since developed a keen interest in backend development, operating systems (especially Linux), and the open-source software movement. In addition to programming, I enjoy metal music, video games, history, and spending time with my dog.
+I am Michał, a software developer from Poland passionate about building and exploring how technology works. My journey in programming began in 2018, and I genuinely enjoy contributing to open-source software, driven by a belief in collaboration and sharing knowledge. Beyond coding, my interests include metal music, video games, history, creating pixel art, and dogs.
 
 <p>
 💼&emsp;Software Developer at <b>2cW</b>  <br>
