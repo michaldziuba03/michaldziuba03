@@ -1,3 +1,6 @@
+<img alt="banner" src="https://github.com/user-attachments/assets/ff08f921-9fc4-4a07-a7f9-1b117a09501a" />
+
+
 # ✨ About me
 
 I am Michał, a software developer from Poland passionate about building and exploring how technology works. My journey in programming began in 2018, and I genuinely enjoy contributing to open-source software, driven by a belief in collaboration and sharing knowledge. Beyond coding, my interests include metal music, video games, history, creating pixel art, and dogs.
