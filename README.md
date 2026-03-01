@@ -1,4 +1,4 @@
-<img alt="banner" src="https://github.com/user-attachments/assets/ff08f921-9fc4-4a07-a7f9-1b117a09501a" />
+<img alt="banner" src="https://github.com/user-attachments/assets/b0d2471c-dcfe-428e-8f39-bc0fe37b0e40" />
 
 
 # ✨ About me
