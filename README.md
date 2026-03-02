@@ -3,7 +3,7 @@
 
 # ✨ About me
 
-I am Michał, a software developer from Poland passionate about building and exploring how technology works. My journey in programming began in 2018, and I genuinely enjoy contributing to open-source software, driven by a belief in collaboration and sharing knowledge. Beyond coding, my interests include metal music, video games, history, creating pixel art, and dogs.
+I'm Michał, a Poland-based developer coding since 2018. I’m a big fan of open source and collaborative building. When I’m not at the keyboard, I’m into metal music, gaming, history, pixel art, and dogs.
 
 <p>
 💼&emsp;Software Developer at <b>2cW</b>  <br>
