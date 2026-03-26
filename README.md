@@ -3,7 +3,7 @@
 
 # ✨ About me
 
-I'm Michał, a Poland-based developer coding since 2018. I’m a big fan of open source and collaborative building. When I’m not at the keyboard, I’m into metal music, gaming, history and pixel art.
+I'm Michał, a Poland-based developer and open-source enthusiast since 2018. Outside of work, I spend my time gaming, listening to metal, and exploring history or pixel art. 
 
 <p>
 💼&emsp;Software Developer at <b>2cW</b>  <br>
